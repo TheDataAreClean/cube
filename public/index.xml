@@ -90,8 +90,18 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.thedataareclean.com/blog/2021-05-10-ed-definition/</guid>
-      <description>knitr::include_graphics(&amp;quot;image.jpg&amp;quot;) _Figure from Unsplash{target=&amp;quot;_blank&amp;quot;} by Gautam Arora{target=&amp;quot;blank&amp;quot;}.
-COVID-19 has had an unprecedented impact affecting a large number of children across states, class, caste, gender and region. In India, school closures have affected 320 million students and only 37.6 million children across 16 states were able to continue education through various initiatives such as online classrooms and radio programmes etc. ^[Education: From disruption to recovery, UNESCO, accessed on 7th May, 2021, https://en.</description>
+      <description>Photo by Gautam Arora from Unsplash.
+COVID-19 has had an unprecedented impact affecting a large number of children across states, class, caste, gender and region. In India, school closures have affected 320 million students and only 37.6 million children across 16 states were able to continue education through various initiatives such as online classrooms and radio programmes etc. 1 A survey by Save the Children during the pandemic reported the discontinuation of children’s education in 62% of the surveyed households with 67% in rural and 55% in urban areas, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Girl Education Spending Tracker</title>
+      <link>https://www.thedataareclean.com/project/girl-ed/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thedataareclean.com/project/girl-ed/</guid>
+      <description>Context   The project aims at monitoring the financing of education related scheme with a special focus on promoting girl education in the state of Uttar Pradesh.
+Solution   This project will serve as a tool to measure the progress towards SDG Goal 4 &amp;amp; 6 and will also strengthen accountability measures in public financing of education by creating a knowledge pool which will further help policy making to promote girl education.</description>
     </item>
     
     <item>
@@ -105,24 +115,6 @@ COVID-19 and Education   The COVID-19 pandemic changed the education landscape o
     </item>
     
     <item>
-      <title>A campfire</title>
-      <link>https://www.thedataareclean.com/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.thedataareclean.com/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>https://www.thedataareclean.com/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>https://www.thedataareclean.com/talk/second-seedling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Strengthening Financial Accountability towards Girl Education</title>
       <link>https://www.thedataareclean.com/blog/2020-12-23-girl-ed/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
@@ -132,21 +124,13 @@ COVID-19 and Education   The COVID-19 pandemic changed the education landscape o
     </item>
     
     <item>
-      <title>A seedling</title>
-      <link>https://www.thedataareclean.com/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      
-      <guid>https://www.thedataareclean.com/talk/seedling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The State of FOSS in India Report</title>
       <link>https://www.thedataareclean.com/project/foss/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.thedataareclean.com/project/foss/</guid>
-      <description></description>
+      <description>Background     Team      Arpit Arora: Co-author Divya Rani: Co-author, Designer Gaurav Godhwani: Co-author, Project Lead Preethi Govidarajan: Co-author  Contributions     FOSS and Education     Timeline     Alongwith
+Recognition     </description>
     </item>
     
     <item>
@@ -196,15 +180,6 @@ Formspree requires a (free) account and new form to be set up. The link is made 
    Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
    Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
    Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
-    </item>
-    
-    <item>
-      <title>Girl Education Spending Tracker</title>
-      <link>https://www.thedataareclean.com/project/giraffes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.thedataareclean.com/project/giraffes/</guid>
-      <description></description>
     </item>
     
     <item>

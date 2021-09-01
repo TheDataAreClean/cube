@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all Projects
     text_link_url: /project/
-description: Some exciting stuff I have contributed to this world!
+description: Some exciting stuff I have contributed to!
 layout: list-grid
 show_author_byline: true
 show_post_date: false
@@ -21,7 +21,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: 
-title: My Projects !
+title: Projects
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

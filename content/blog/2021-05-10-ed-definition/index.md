@@ -7,10 +7,7 @@ categories:
 - CivicDataLab
 date: "2021-05-10"
 draft: false
-excerpt: This theme offers built-in Font Awesome icons for organizing your collection
-  of social accounts and their links. Use icons to help visitors find you wherever
-  you want to be found, and learn how to show or hide them in your site's header,
-  footer, homepage, about page, and contact form.
+excerpt: A fiscal definition for Education that could enable key stakeholders like CSOs, research organisations and citizens to not only analyse and critique the education related expenditure for any geography but also modify the definition to get an accurate picture for their specific use cases.
 layout: single
 subtitle: Finding multiple needles in numerous haystacks..
 title: Following The Education Financing Breadcrumbs

@@ -7,7 +7,7 @@ categories:
 - Report
 date: "2020-01-12"
 draft: false
-excerpt: A chronicle of the evolution of the Free and Open Source Software (FOSS) in India. Identifying key stakeholders, list out their challenges & recommendations to build a healthy ecosystem.
+excerpt: A chronicle of the evolution of the Free and Open Source Software (FOSS) ecosystem in India. Identifying key stakeholders, their challenges & recommendations to support the growth of a healthy community.
 layout: single
 links:
 - icon: door-open
@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/state-of-foss
-subtitle: A chronicle of the evolution of the Free and Open Source Software (FOSS) in India. Identifying key stakeholders, list out their challenges & recommendations to build a healthy ecosystem.
+subtitle: A chronicle of the evolution of the Free and Open Source Software (FOSS) ecosystem in India. Identifying key stakeholders, their challenges & recommendations to support the growth of a healthy community.
 tags:
 - FOSS
 - Open Source
@@ -26,3 +26,28 @@ title: The State of FOSS in India Report
 ---
 
 ![FOSS logo](foss.png)
+
+## Background
+
+
+### Team
+
+- **Arpit Arora**: Co-author
+- **Divya Rani**: Co-author, Designer
+- **Gaurav Godhwani**: Co-author, Project Lead
+- **Preethi Govidarajan**: Co-author
+
+## Contributions
+
+### FOSS and Education
+
+
+
+### Timeline
+
+Alongwith
+
+
+
+### Recognition
+
