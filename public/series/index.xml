@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on cube</title>
-    <link>https://www.thedataareclean.com/series/</link>
+    <link>https://apero.netlify.app/series/</link>
     <description>Recent content in Series on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>CC BY 4.0</copyright><atom:link href="https://www.thedataareclean.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>CC BY 4.0</copyright><atom:link href="https://apero.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

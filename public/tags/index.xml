@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on cube</title>
-    <link>https://www.thedataareclean.com/tags/</link>
+    <link>https://apero.netlify.app/tags/</link>
     <description>Recent content in Tags on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.thedataareclean.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://apero.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FOSS</title>
-      <link>https://www.thedataareclean.com/tags/foss/</link>
+      <link>https://apero.netlify.app/tags/foss/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/tags/foss/</guid>
+      <guid>https://apero.netlify.app/tags/foss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source</title>
-      <link>https://www.thedataareclean.com/tags/open-source/</link>
+      <link>https://apero.netlify.app/tags/open-source/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/tags/open-source/</guid>
+      <guid>https://apero.netlify.app/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo-site</title>
-      <link>https://www.thedataareclean.com/tags/hugo-site/</link>
+      <link>https://apero.netlify.app/tags/hugo-site/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/tags/hugo-site/</guid>
+      <guid>https://apero.netlify.app/tags/hugo-site/</guid>
       <description></description>
     </item>
     

@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cube</title>
-    <link>https://www.thedataareclean.com/</link>
+    <link>https://apero.netlify.app/</link>
     <description>Recent content on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.thedataareclean.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apero.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
-      <link>https://www.thedataareclean.com/collection/day02/01-netlify/</link>
+      <link>https://apero.netlify.app/collection/day02/01-netlify/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/collection/day02/01-netlify/</guid>
+      <guid>https://apero.netlify.app/collection/day02/01-netlify/</guid>
       <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
 Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
     </item>
     
     <item>
       <title>A GitHub profile</title>
-      <link>https://www.thedataareclean.com/collection/day01/01-github/</link>
+      <link>https://apero.netlify.app/collection/day01/01-github/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/collection/day01/01-github/</guid>
+      <guid>https://apero.netlify.app/collection/day01/01-github/</guid>
       <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
 Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
 Profile README     This is new! Let&amp;rsquo;s do it:
@@ -32,20 +32,20 @@ https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/ma
     
     <item>
       <title>Prework</title>
-      <link>https://www.thedataareclean.com/collection/prework/</link>
+      <link>https://apero.netlify.app/collection/prework/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/collection/prework/</guid>
+      <guid>https://apero.netlify.app/collection/prework/</guid>
       <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
 Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
     </item>
     
     <item>
       <title>A postcard</title>
-      <link>https://www.thedataareclean.com/collection/day01/02-postcards/</link>
+      <link>https://apero.netlify.app/collection/day01/02-postcards/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/collection/day01/02-postcards/</guid>
+      <guid>https://apero.netlify.app/collection/day01/02-postcards/</guid>
       <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
 install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
@@ -53,10 +53,10 @@ install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you u
     
     <item>
       <title>Using blogdown</title>
-      <link>https://www.thedataareclean.com/collection/day02/02-blogdown/</link>
+      <link>https://apero.netlify.app/collection/day02/02-blogdown/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/collection/day02/02-blogdown/</guid>
+      <guid>https://apero.netlify.app/collection/day02/02-blogdown/</guid>
       <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
 install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
@@ -64,10 +64,10 @@ install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you u
     
     <item>
       <title>A distill site</title>
-      <link>https://www.thedataareclean.com/collection/day01/03-distill/</link>
+      <link>https://apero.netlify.app/collection/day01/03-distill/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/collection/day01/03-distill/</guid>
+      <guid>https://apero.netlify.app/collection/day01/03-distill/</guid>
       <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
 install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
@@ -75,10 +75,10 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
     
     <item>
       <title>Warm woolen mittens</title>
-      <link>https://www.thedataareclean.com/collection/day02/03-blogdown/</link>
+      <link>https://apero.netlify.app/collection/day02/03-blogdown/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/collection/day02/03-blogdown/</guid>
+      <guid>https://apero.netlify.app/collection/day02/03-blogdown/</guid>
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
@@ -86,79 +86,79 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     
     <item>
       <title>Following The Education Financing Breadcrumbs</title>
-      <link>https://www.thedataareclean.com/blog/2021-05-10-ed-definition/</link>
+      <link>https://apero.netlify.app/blog/2021-05-10-ed-definition/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/blog/2021-05-10-ed-definition/</guid>
+      <guid>https://apero.netlify.app/blog/2021-05-10-ed-definition/</guid>
       <description>Photo by Gautam Arora from Unsplash.
 COVID-19 has had an unprecedented impact affecting a large number of children across states, class, caste, gender and region. In India, school closures have affected 320 million students and only 37.6 million children across 16 states were able to continue education through various initiatives such as online classrooms and radio programmes etc. 1 A survey by Save the Children during the pandemic reported the discontinuation of children’s education in 62% of the surveyed households with 67% in rural and 55% in urban areas, respectively.</description>
     </item>
     
     <item>
       <title>Girl Education Spending Tracker</title>
-      <link>https://www.thedataareclean.com/project/girl-ed/</link>
+      <link>https://apero.netlify.app/project/girl-ed/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/project/girl-ed/</guid>
+      <guid>https://apero.netlify.app/project/girl-ed/</guid>
       <description>Context   The project aims at monitoring the financing of education related scheme with a special focus on promoting girl education in the state of Uttar Pradesh.
 Solution   This project will serve as a tool to measure the progress towards SDG Goal 4 &amp;amp; 6 and will also strengthen accountability measures in public financing of education by creating a knowledge pool which will further help policy making to promote girl education.</description>
     </item>
     
     <item>
       <title>Digital Ingress &amp; rise of Ed-Tech in the COVID-19 Era</title>
-      <link>https://www.thedataareclean.com/blog/2021-02-18-budget-reco-ed/</link>
+      <link>https://apero.netlify.app/blog/2021-02-18-budget-reco-ed/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/blog/2021-02-18-budget-reco-ed/</guid>
+      <guid>https://apero.netlify.app/blog/2021-02-18-budget-reco-ed/</guid>
       <description>Photo by marif shaik from Unsplash.
 COVID-19 and Education   The COVID-19 pandemic changed the education landscape of India overnight. Educational institutes were compelled to adopt various digital learning alternatives to sustain timely growth of children. In a country where only 4.4% of rural and 23.4% of urban households own computers, the challenge becomes even bigger. Moreover, this gap gets wider with only 42% of urban households having a computer with an internet connection, and the same being available to only 14.</description>
     </item>
     
     <item>
       <title>Strengthening Financial Accountability towards Girl Education</title>
-      <link>https://www.thedataareclean.com/blog/2020-12-23-girl-ed/</link>
+      <link>https://apero.netlify.app/blog/2020-12-23-girl-ed/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/blog/2020-12-23-girl-ed/</guid>
+      <guid>https://apero.netlify.app/blog/2020-12-23-girl-ed/</guid>
       <description>Girl Education and India   Although education is a fundamental right in India, according to Census 2011, 1 in 4 children of school going age is out of school in our country and 99 million children in total have dropped out of school in the last 10 years. Out of every 100 children, only 32 children finish their school education age-appropriately (DISE 2014–15). The Govt. has achieved universal enrollment in primary school but dropout rate is 4% in elementary school, rising to 17% in secondary school.</description>
     </item>
     
     <item>
       <title>The State of FOSS in India Report</title>
-      <link>https://www.thedataareclean.com/project/foss/</link>
+      <link>https://apero.netlify.app/project/foss/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/project/foss/</guid>
+      <guid>https://apero.netlify.app/project/foss/</guid>
       <description>Background     Team      Arpit Arora: Co-author Divya Rani: Co-author, Designer Gaurav Godhwani: Co-author, Project Lead Preethi Govidarajan: Co-author  Contributions     FOSS and Education     Timeline     Alongwith
 Recognition     </description>
     </item>
     
     <item>
       <title>Palmer Penguins</title>
-      <link>https://www.thedataareclean.com/project/penguins/</link>
+      <link>https://apero.netlify.app/project/penguins/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/project/penguins/</guid>
+      <guid>https://apero.netlify.app/project/penguins/</guid>
       <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
  Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://www.thedataareclean.com/contact/</link>
+      <link>https://apero.netlify.app/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       
-      <guid>https://www.thedataareclean.com/contact/</guid>
+      <guid>https://apero.netlify.app/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
 Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     
     <item>
       <title>Typography Styles &amp; Element Examples</title>
-      <link>https://www.thedataareclean.com/elements/</link>
+      <link>https://apero.netlify.app/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
-      <guid>https://www.thedataareclean.com/elements/</guid>
+      <guid>https://apero.netlify.app/elements/</guid>
       <description>Font Sizes   A A A A A A A A   6rem
 (96px) 5rem
 (80px) 3rem
@@ -172,10 +172,10 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title>Contributors</title>
-      <link>https://www.thedataareclean.com/contributors/</link>
+      <link>https://apero.netlify.app/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/contributors/</guid>
+      <guid>https://apero.netlify.app/contributors/</guid>
       <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
    Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
    Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
@@ -184,10 +184,10 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title>License</title>
-      <link>https://www.thedataareclean.com/license/</link>
+      <link>https://apero.netlify.app/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/license/</guid>
+      <guid>https://apero.netlify.app/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.
    </description>
     </item>

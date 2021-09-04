@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on cube</title>
-    <link>https://www.thedataareclean.com/categories/open-source/</link>
+    <link>https://apero.netlify.app/categories/open-source/</link>
     <description>Recent content in Open Source on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.thedataareclean.com/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apero.netlify.app/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Girl Education Spending Tracker</title>
-      <link>https://www.thedataareclean.com/project/girl-ed/</link>
+      <link>https://apero.netlify.app/project/girl-ed/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/project/girl-ed/</guid>
+      <guid>https://apero.netlify.app/project/girl-ed/</guid>
       <description>Context   The project aims at monitoring the financing of education related scheme with a special focus on promoting girl education in the state of Uttar Pradesh.
 Solution   This project will serve as a tool to measure the progress towards SDG Goal 4 &amp;amp; 6 and will also strengthen accountability measures in public financing of education by creating a knowledge pool which will further help policy making to promote girl education.</description>
     </item>
     
     <item>
       <title>The State of FOSS in India Report</title>
-      <link>https://www.thedataareclean.com/project/foss/</link>
+      <link>https://apero.netlify.app/project/foss/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/project/foss/</guid>
+      <guid>https://apero.netlify.app/project/foss/</guid>
       <description>Background     Team      Arpit Arora: Co-author Divya Rani: Co-author, Designer Gaurav Godhwani: Co-author, Project Lead Preethi Govidarajan: Co-author  Contributions     FOSS and Education     Timeline     Alongwith
 Recognition     </description>
     </item>

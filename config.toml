@@ -1,4 +1,4 @@
-baseURL = "https://www.thedataareclean.com/"
+baseURL = "https://apero.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "cube"

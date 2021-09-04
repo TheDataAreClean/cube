@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FOSS on cube</title>
-    <link>https://www.thedataareclean.com/tags/foss/</link>
+    <link>https://apero.netlify.app/tags/foss/</link>
     <description>Recent content in FOSS on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.thedataareclean.com/tags/foss/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://apero.netlify.app/tags/foss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The State of FOSS in India Report</title>
-      <link>https://www.thedataareclean.com/project/foss/</link>
+      <link>https://apero.netlify.app/project/foss/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedataareclean.com/project/foss/</guid>
+      <guid>https://apero.netlify.app/project/foss/</guid>
       <description>Background     Team      Arpit Arora: Co-author Divya Rani: Co-author, Designer Gaurav Godhwani: Co-author, Project Lead Preethi Govidarajan: Co-author  Contributions     FOSS and Education     Timeline     Alongwith
 Recognition     </description>
     </item>
