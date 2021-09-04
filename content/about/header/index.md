@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-##  Thank you for checking out my work!
+## Check out some of my work below !
 
