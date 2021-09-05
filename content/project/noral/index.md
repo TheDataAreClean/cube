@@ -37,24 +37,24 @@ title: The Northern Alliance of Scotland
 
 The aim of this collaboration is to determine what data sources and analytical techniques best reflect the challenges of child poverty, and subsequently provide a means to assess the poverty related attainment gap as a result – which will further allow individual school settings, local authorities and other bodies to plan targeted interventions to reduce it.
 
-Developed through the [Impact Collaborations process](https://www.dataforchildrencollaborative.com/impact-collaborations-1) by [The Data for Children Collaboratiive w/ UNICEF](https://www.dataforchildrencollaborative.com/), the project brings together together academic expertise from the Fraser of Allander Institute at the [University of Strathclyde](https://www.strath.ac.uk/business/economics/fraserofallanderinstitute/) and [Glasgow Caledonian University](https://www.gcu.ac.uk/), and data science expertise at [CivicDataLab](https://civicdatalab.in/) and [East Neuk Analytics](https://eastneukanalytics.com/).
+Developed through the [Impact Collaborations process](https://www.dataforchildrencollaborative.com/impact-collaborations-1) by [The Data for Children Collaboratiive w/ UNICEF](https://www.dataforchildrencollaborative.com/), the project brings together academic expertise from the Fraser of Allander Institute at the [University of Strathclyde](https://www.strath.ac.uk/business/economics/fraserofallanderinstitute/) and [Glasgow Caledonian University](https://www.gcu.ac.uk/), and data science expertise at [CivicDataLab](https://civicdatalab.in/) and [East Neuk Analytics](https://eastneukanalytics.com/).
 
 ### Solution
 
-To address the completxity of the problem, the research was conducted f
+To address the complexity of the problem, the research was conducted for the following threads:
 
 **Stakeholder Research**:
-- The data sources and tools stakeholders are interacting better support the children in their region with and and how are they using them.
+- The data sources and tools key stakeholders are interacting with to better support the children in their region with and how are they using them.
 - Improvements required to the data and tools engaged by key stakeholders related to the education of a child. 
 - The interventions that can be brought through to use access to information in driving civic engagement and participation.
 
 **Data Research**: 
-- Identify what kind of information/data do stakeholders seek/prefer to understand about the needs of children and young people in relation to education in their area.
+- Identify what kind of data and information do stakeholders seek or prefer to understand the needs of children and young people in relation to education in their area.
 - Determine what data sources, tools and techniques best reflect the challenges of child poverty, and subsequently provide a means to assess the poverty related attainment gap as a result.
 
 **Design Research**:
 - Study of existing tools/platforms to understand the landscape of educational tools available to the key stakeholders.
-- Develop suggestive wireframes for a possible digital solution to solve for challenges highlighted in the stakeholder research.
+- Develop suggestive wireframes for possible digital solutions for challenges highlighted in the stakeholder research.
 
 **Technology Research**:
 - Identify requirements, challenges, use cases, management procedures and tooling options to develop and build the features from the stakeholder workshop.
@@ -83,5 +83,5 @@ As a Project Lead and Lead Researcher on the project, my role encompassed the fo
 
 **Partnership**
 - Identifying the project opportunity and engaging with funders to secure the project for the organisation.
-- Scoping the problem statement with the project partners to actionable for project outputs.
-- Liaising with the project partners, key stakeholder and Scottish government officials to communicate progress.
+- Scoping the problem statement in collaboration with the project partners to identify actionable project outputs.
+- Liaising with the project partners, key stakeholders and Scottish government officials to communicate progress.
