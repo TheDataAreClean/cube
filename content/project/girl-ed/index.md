@@ -11,6 +11,15 @@ date: "2021-04-01"
 draft: false
 excerpt: Monitoring the financing of education related scheme, accounting heads and interventions in the state of Uttar Pradesh with a special focus on promoting girl child education.
 layout: single
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://civicdatalab.in/work/publicfinance/girleducation/
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/CivicDataLab/up-fiscal-data
 subtitle: Strengthening Financial Accountability towards Girl Education in rural Uttar Pradesh
 tags: 
 title: Girl Education Spending Tracker
@@ -70,9 +79,3 @@ The following research was conducted to create and published key resources for t
 - [**Strengthening Financial Accountability towards Girl Education**](https://medium.com/civicdatalab/strengthening-financial-accountability-towards-girl-education-b9e3ba9be7d9): Exploration and analysis of the Uttar Pradesh fiscal data and education landscape.
 - [**Digital Ingress & rise of Ed-Tech in the COVID-19 Era**](https://medium.com/civicdatalab/budget-ed-tech-covid-19-era-7b37afe561ee): Budget `FY 2021-22` recommendations for  the state of Uttar Pradesh on adoption of Free and Open Source Software (FOSS) to overcome education crisis due to the pandemic.
 - [**Following The Education Financing Breadcrumbs**](https://medium.com/civicdatalab/following-the-education-financing-breadcrumbs-c48f803c84a1): Fiscal definition of education for the state of Uttar Pradesh to better define the scope and analyse trends.
-
-### Resources
-
-- [Project Page](https://civicdatalab.in/work/publicfinance/girleducation/)
-- [Project Repository](https://github.com/CivicDataLab/up-fiscal-data)
-- Tracker Website [TBA]
