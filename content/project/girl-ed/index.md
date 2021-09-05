@@ -25,7 +25,7 @@ tags:
 title: Girl Education Spending Tracker
 ---
 
-![](featured.png)
+![](featured-hex.png)
 
 ### About
 
