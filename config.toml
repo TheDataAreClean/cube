@@ -84,7 +84,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "file-alt" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "https://github.com/TheDataAreClean"
+      url       = "https://thedataareclean.com/resources/arpit-arora-resume.pdf"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
