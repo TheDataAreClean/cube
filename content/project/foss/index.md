@@ -27,27 +27,27 @@ title: The State of FOSS in India Report
 
 ![FOSS logo](foss.png)
 
-## Background
+### Background
 
 
 ### Team
 
-- **Arpit Arora**: Co-author
-- **Divya Rani**: Co-author, Designer
-- **Gaurav Godhwani**: Co-author, Project Lead
-- **Preethi Govidarajan**: Co-author
+- **_Arpit Arora_**, Co-author
+- Divya Rani, Co-author, Designer
+- Gaurav Godhwani, Co-author, Project Lead
+- Preethi Govindarajan, Co-author
 
-## Contributions
-
-### FOSS and Education
+### Contributions
 
 
+#### FOSS and Education
 
-### Timeline
 
-Alongwith
-
+#### Chronicle
 
 
 ### Recognition
+
+
+### Resources
 

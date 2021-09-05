@@ -20,7 +20,7 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/CivicDataLab/up-fiscal-data
-subtitle: Strengthening Financial Accountability towards Girl Education in rural Uttar Pradesh
+subtitle: Strengthening Financial Accountability towards Girl Education in rural Uttar Pradesh.
 tags: 
 title: Girl Education Spending Tracker
 ---
@@ -31,14 +31,14 @@ title: Girl Education Spending Tracker
 
 [CivicDataLab](https://civicdatalab.in/) partnered with [HAQ: Centre for Child Rights](https://haqcrc.org/) (HAQ-CRC) and [Malala Fund](https://malala.org/) on a project to strengthen financial accountability towards girl education in Uttar Pradesh. The project aims at monitoring the financing of education related scheme with a special focus on promoting girl education in the state. This project will serve as a means to measure the progress towards SDG Goal 4 & 6 and will also strengthen accountability measures in public financing of education by creating a knowledge pool which will further help policy making to promote girl education.
 
-The project also intends to build the collective voices of local CSOs to be able to advocate for greater fiscal transparency in allocation and expenditure for education related programmes by putting the fund flow data in public domain in simplified forms. The outcomes of the proposed project are likely to improve the implementation of education related schemes in the selected states thereby benefiting all the children who are part of the schooling system.
+The project also intends to build the collective voices of local CSOs to be able to advocate for greater fiscal transparency in allocation and expenditure for education related programmes by sharing the fund flow data in public domain in standardised formats. The outcomes of the proposed project are likely to improve the implementation of education related schemes in the selected states thereby benefiting all the children who are part of the schooling system.
 
 ### Solution
 > **_currently under development._**
 
-One of the key outputs of the project is the Girl Education Spending Tracker, an online interactive portal to explore the fund flow towards girl education Uttar Pradesh with a special focus on two aspirational districts, Bahraich and Shravasti.
+One of the key outputs of the project is the Girl Education Spending Tracker, an online interactive portal to explore the fund flow towards girl education in Uttar Pradesh with a special focus on two aspirational districts, Bahraich and Shravasti.
 
-The portal will enable better tracking of the journey of a child’s education, enhancing the knowledge and capacity of grassroots organisations, governments and the common public at large enabling them to make more informed decisions. It will also act as a medium of collaboration between government stakeholders and members of civil society to enable better budgetary decision making in the education sector.
+The portal will enable better tracking of the journey of a child’s education, enhancing the knowledge and capacity of grassroot organisations, governments and the common public at large, enabling them to make more informed decisions. It will also act as a medium of collaboration between government stakeholders and members of civil society to enable better budgetary decision making in the education sector.
 
 **Some key features of the Girl Education Spending Tracker**:
 
@@ -56,7 +56,7 @@ The portal will enable better tracking of the journey of a child’s education, 
 - Shreya Agarwal; Lead Developer
 - Upasana Hembram; Advocacy Fellow
 
-### Role
+### Contributions
 
 As a Project Lead and Lead Researcher on the project, my role encompassed the following activities on the project:
 
