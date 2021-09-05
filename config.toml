@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/cube.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "project", "resume"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -81,6 +81,10 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
+  [[params.social]]
+      icon      = "file-alt" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "https://github.com/TheDataAreClean"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -137,10 +141,10 @@ enableEmoji = true
     url = "/project/"
     weight = 3
 #  [[menu.header]]
-#    name = "Talks"
-#    title = "Talks"
-#    url = "/talk/"
-#    weight = 4
+#    name = "Resume"
+#    title = "Resume"
+#    url = ""
+#    weight = 4    
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"
