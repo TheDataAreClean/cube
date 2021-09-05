@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://apero.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apero.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo-site</title>
+      <link>https://apero.netlify.app/tags/hugo-site/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apero.netlify.app/tags/hugo-site/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>FOSS</title>
       <link>https://apero.netlify.app/tags/foss/</link>
@@ -23,15 +32,6 @@
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://apero.netlify.app/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo-site</title>
-      <link>https://apero.netlify.app/tags/hugo-site/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://apero.netlify.app/tags/hugo-site/</guid>
       <description></description>
     </item>
     

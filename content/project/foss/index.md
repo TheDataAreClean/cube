@@ -1,5 +1,5 @@
 ---
-author: Arpit Arora
+author: Arpit Arora, Divya Rani, Gaurav Godhwani, Preethi Govindarajan
 categories:
 - Education
 - FOSS
@@ -33,11 +33,11 @@ title: The State of FOSS in India Report
 
 ### Background
 
-[CivicDataLab](https://civicdatalab.in/) in partnership with [Omidyar Network India](https://www.omidyarnetwork.in/) conducted a research study to develop a deeper understanding of the Free & Open Source Software (FOSS) ecosystem of India, it's current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicle the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.
+[CivicDataLab](https://civicdatalab.in/) in partnership with [Omidyar Network India](https://www.omidyarnetwork.in/) conducted a research study to develop a deeper understanding of the Free & Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.
 
 ![](foss-stakeholders.png)
 
-The research identifies the key stakeholders of the ecosystem, their spheres on influence, key challenges faced by the them and recommendations on how best to support and incentivise adoption and contribution to the FOSS community, locally and globally. For the Indian FOSS ecosystem to thrive, a National FOSS Alliance is suggested — a network of committed stakeholders from developer communities, industry, academia, and government to “join forces” and work towards building India’s digital ecosystems rooted in the core values of FOSS.
+The research identifies the key stakeholders of the ecosystem, their spheres on influence, key challenges faced by the them and recommendations on how best to support and incentivise adoption and contribution to the FOSS community, locally and globally. For the Indian FOSS ecosystem to thrive, a National FOSS Alliance is suggested — a network of committed stakeholders from developer communities, industry, academia, and government to join forces and work towards building India’s digital ecosystems rooted in the core values of FOSS.
 
 ![](foss-alliance.png)
 

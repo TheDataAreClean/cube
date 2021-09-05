@@ -50,10 +50,10 @@ The portal will enable better tracking of the journey of a child’s education, 
 
 ### Team
 
-- Akhil Sagiraju; Developer
+- Akhil Sagiraju; Front End Developer
 - **_Arpit Arora_**; Project Lead
 - Jatin Baghel; Product Designer
-- Shreya Agarwal; Lead Developer
+- Shreya Agarwal; Lead Technologist
 - Upasana Hembram; Advocacy Fellow
 
 ### Contributions
