@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/cube.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = ""
+  twitter = "TheDataAreClean"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -86,13 +86,13 @@ enableEmoji = true
       icon_pack = "fas"
       url       = "https://thedataareclean.com/resources/arpit-arora-resume.pdf"
   [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/TheDataAreClean"
+  [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/TheDataAreClean"
-#  [[params.social]]
-#      icon      = "twitter" # icon name without the 'fa-'
-#      icon_pack = "fab"
-#      url       = "https://twitter.com/TheDataAreClean"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
