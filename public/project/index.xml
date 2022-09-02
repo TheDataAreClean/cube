@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on cube</title>
-    <link>https://apero.netlify.app/project/</link>
+    <link>https://thedataareclean.com/project/</link>
     <description>Recent content in Projects on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apero.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Northern Alliance of Scotland</title>
-      <link>https://apero.netlify.app/project/noral/</link>
+      <link>https://thedataareclean.com/project/noral/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://apero.netlify.app/project/noral/</guid>
+      <guid>https://thedataareclean.com/project/noral/</guid>
       <description>Background      The Northern Alliance of Scotland is a regional improvement collaborative, spanning across and supporting eight local authorities and their associated school settings to improve education and reduce the poverty related attainment gap. Within these settings, children, young people and their families live across a diverse range of urban and rural settlements.
 The aim of this collaboration is to determine what data sources and analytical techniques best reflect the challenges of child poverty, and subsequently provide a means to assess the poverty related attainment gap as a result – which will further allow individual school settings, local authorities and other bodies to plan targeted interventions to reduce it.</description>
     </item>
     
     <item>
       <title>Girl Education Spending Tracker</title>
-      <link>https://apero.netlify.app/project/girl-ed/</link>
+      <link>https://thedataareclean.com/project/girl-ed/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://apero.netlify.app/project/girl-ed/</guid>
+      <guid>https://thedataareclean.com/project/girl-ed/</guid>
       <description>About      CivicDataLab partnered with HAQ: Centre for Child Rights (HAQ-CRC) and Malala Fund on a project to strengthen financial accountability towards girl education in Uttar Pradesh. The project aims at monitoring the financing of education related scheme with a special focus on promoting girl education in the state. This project will serve as a means to measure the progress towards SDG Goal 4 &amp;amp; 6 and will also strengthen accountability measures in public financing of education by creating a knowledge pool which will further help policy making to promote girl education.</description>
     </item>
     
     <item>
       <title>The State of FOSS in India Report</title>
-      <link>https://apero.netlify.app/project/foss/</link>
+      <link>https://thedataareclean.com/project/foss/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://apero.netlify.app/project/foss/</guid>
-      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, it&amp;rsquo;s current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicle the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
+      <guid>https://thedataareclean.com/project/foss/</guid>
+      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
     </item>
     
   </channel>

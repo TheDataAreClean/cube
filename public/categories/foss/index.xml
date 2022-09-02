@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FOSS on cube</title>
-    <link>https://apero.netlify.app/categories/foss/</link>
+    <link>https://thedataareclean.com/categories/foss/</link>
     <description>Recent content in FOSS on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apero.netlify.app/categories/foss/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/foss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Girl Education Spending Tracker</title>
-      <link>https://apero.netlify.app/project/girl-ed/</link>
+      <link>https://thedataareclean.com/project/girl-ed/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://apero.netlify.app/project/girl-ed/</guid>
+      <guid>https://thedataareclean.com/project/girl-ed/</guid>
       <description>About      CivicDataLab partnered with HAQ: Centre for Child Rights (HAQ-CRC) and Malala Fund on a project to strengthen financial accountability towards girl education in Uttar Pradesh. The project aims at monitoring the financing of education related scheme with a special focus on promoting girl education in the state. This project will serve as a means to measure the progress towards SDG Goal 4 &amp;amp; 6 and will also strengthen accountability measures in public financing of education by creating a knowledge pool which will further help policy making to promote girl education.</description>
     </item>
     
     <item>
       <title>Digital Ingress &amp; rise of Ed-Tech in the COVID-19 Era</title>
-      <link>https://apero.netlify.app/blog/2021-02-18-budget-reco-ed/</link>
+      <link>https://thedataareclean.com/blog/2021-02-18-budget-reco-ed/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://apero.netlify.app/blog/2021-02-18-budget-reco-ed/</guid>
+      <guid>https://thedataareclean.com/blog/2021-02-18-budget-reco-ed/</guid>
       <description>Photo by marif shaik from Unsplash.
 COVID-19 and Education   The COVID-19 pandemic changed the education landscape of India overnight. Educational institutes were compelled to adopt various digital learning alternatives to sustain timely growth of children. In a country where only 4.4% of rural and 23.4% of urban households own computers, the challenge becomes even bigger. Moreover, this gap gets wider with only 42% of urban households having a computer with an internet connection, and the same being available to only 14.</description>
     </item>
     
     <item>
       <title>The State of FOSS in India Report</title>
-      <link>https://apero.netlify.app/project/foss/</link>
+      <link>https://thedataareclean.com/project/foss/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://apero.netlify.app/project/foss/</guid>
-      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, it&amp;rsquo;s current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicle the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
+      <guid>https://thedataareclean.com/project/foss/</guid>
+      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
     </item>
     
   </channel>

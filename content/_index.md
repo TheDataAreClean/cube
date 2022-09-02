@@ -1,18 +1,16 @@
 ---
-action_label: Read More &rarr;
+action_label: Find out more &rarr;
 action_link: /about
 action_type: text
-description: "Hello, citizen of The Interwebs! I am `cube`, a researcher working in the education sector to accelerate access to information and enable data literacy through open knowledge movements.\n\n
+description: "Hello! I am `cube`, a statistician working working on the intersection of data and technology to accelerate access to information and enable data literacy through open knowledge movements.
 
-I am a statistician by trade, who has helped co-create numerous data centeric digital solutions over the last 6 years. Currently, I am working at [CivicDataLab](https://civicdatalab.inl) on the intersection of education and public finance using novel datasets to better understand the state of education in rural India and Scotland.\n\n
-
-I believe in building sustainable and intersectional solutions for the society, which understand both the potential and potential harms of using data to solve societal challenges. In my personal life, I am an avid cyclist, devourer of books, and passionate about all things `#RStats`!"
+Over my short career, I have led numerous research projects, monitoring and evaluation initiatives and build data centric digital solutions."
 images:
  - img/tdac.png
 show_action_link: true
 show_social_links: true
 subtitle: "@TheDataAreClean"
-text_align_left: false
+text_align_left: true
 title: cube
 type: home
 ---

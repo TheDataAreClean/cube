@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on cube</title>
-    <link>https://apero.netlify.app/tags/open-source/</link>
+    <link>https://thedataareclean.com/tags/open-source/</link>
     <description>Recent content in Open Source on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://apero.netlify.app/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The State of FOSS in India Report</title>
-      <link>https://apero.netlify.app/project/foss/</link>
+      <link>https://thedataareclean.com/project/foss/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://apero.netlify.app/project/foss/</guid>
-      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, it&amp;rsquo;s current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicle the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
+      <guid>https://thedataareclean.com/project/foss/</guid>
+      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
     </item>
     
   </channel>
