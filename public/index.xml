@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://thedataareclean.com/collection/day02/01-netlify/</link>
@@ -82,6 +82,17 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Amazon’s steep learning curve in India’s crowded online test prep market</title>
+      <link>https://thedataareclean.com/blog/the-ken/2022-01-05-amazon-academy/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2022-01-05-amazon-academy/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       Amazon is the latest edtech entrant in India, with its eye on the engineering and medical test prep market, and beyond
+  The company is taking a no-frills approach to teaching and relying on data to organise, personalise, and present the content better</description>
     </item>
     
     <item>
