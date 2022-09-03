@@ -7,11 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Northern Alliance of Scotland</title>
+      <title>Up in the air: The vague Byju’s-NITI Aayog stab at public edtech</title>
+      <link>https://thedataareclean.com/blog/the-ken/2021-12-08-niti-byjus/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2021-12-08-niti-byjus/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       The $20 billion edtech giant Byju’s has set its sight on the public education system in India. It has a willing partner in NITI Aayog
+  Byju’s wants to target students in India’s most developmentally challenged states; its products aren’t a great fit for the audience</description>
+    </item>
+    
+    <item>
+      <title>Democratising Action for Attainment</title>
       <link>https://thedataareclean.com/project/noral/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://thedataareclean.com/project/noral/</guid>
       <description>Background      The Northern Alliance of Scotland is a regional improvement collaborative, spanning across and supporting eight local authorities and their associated school settings to improve education and reduce the poverty related attainment gap. Within these settings, children, young people and their families live across a diverse range of urban and rural settlements.
@@ -20,10 +31,10 @@ The aim of this collaboration is to determine what data sources and analytical t
     
     <item>
       <title>Following The Education Financing Breadcrumbs</title>
-      <link>https://thedataareclean.com/blog/2021-05-10-ed-definition/</link>
+      <link>https://thedataareclean.com/blog/cdl/2021-05-10-ed-definition/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/blog/2021-05-10-ed-definition/</guid>
+      <guid>https://thedataareclean.com/blog/cdl/2021-05-10-ed-definition/</guid>
       <description>Photo by Gautam Arora from Unsplash.
 COVID-19 has had an unprecedented impact affecting a large number of children across states, class, caste, gender and region. In India, school closures have affected 320 million students and only 37.6 million children across 16 states were able to continue education through various initiatives such as online classrooms and radio programmes etc. 1 A survey by Save the Children during the pandemic reported the discontinuation of children’s education in 62% of the surveyed households with 67% in rural and 55% in urban areas, respectively.</description>
     </item>
@@ -39,30 +50,21 @@ COVID-19 has had an unprecedented impact affecting a large number of children ac
     
     <item>
       <title>Digital Ingress &amp; rise of Ed-Tech in the COVID-19 Era</title>
-      <link>https://thedataareclean.com/blog/2021-02-18-budget-reco-ed/</link>
+      <link>https://thedataareclean.com/blog/cdl/2021-02-18-budget-reco-ed/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/blog/2021-02-18-budget-reco-ed/</guid>
+      <guid>https://thedataareclean.com/blog/cdl/2021-02-18-budget-reco-ed/</guid>
       <description>Photo by marif shaik from Unsplash.
 COVID-19 and Education   The COVID-19 pandemic changed the education landscape of India overnight. Educational institutes were compelled to adopt various digital learning alternatives to sustain timely growth of children. In a country where only 4.4% of rural and 23.4% of urban households own computers, the challenge becomes even bigger. Moreover, this gap gets wider with only 42% of urban households having a computer with an internet connection, and the same being available to only 14.</description>
     </item>
     
     <item>
       <title>Strengthening Financial Accountability towards Girl Education</title>
-      <link>https://thedataareclean.com/blog/2020-12-23-girl-ed/</link>
+      <link>https://thedataareclean.com/blog/cdl/2020-12-23-girl-ed/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/blog/2020-12-23-girl-ed/</guid>
+      <guid>https://thedataareclean.com/blog/cdl/2020-12-23-girl-ed/</guid>
       <description>Girl Education and India   Although education is a fundamental right in India, according to Census 2011, 1 in 4 children of school going age is out of school in our country and 99 million children in total have dropped out of school in the last 10 years. Out of every 100 children, only 32 children finish their school education age-appropriately (DISE 2014–15). The Govt. has achieved universal enrollment in primary school but dropout rate is 4% in elementary school, rising to 17% in secondary school.</description>
-    </item>
-    
-    <item>
-      <title>The State of FOSS in India Report</title>
-      <link>https://thedataareclean.com/project/foss/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedataareclean.com/project/foss/</guid>
-      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
     </item>
     
   </channel>

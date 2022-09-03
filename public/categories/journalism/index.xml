@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journalism on cube</title>
+    <link>https://thedataareclean.com/categories/journalism/</link>
+    <description>Recent content in journalism on cube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY 4.0</copyright><atom:link href="https://thedataareclean.com/categories/journalism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journalism</title>
+      <link>https://thedataareclean.com/blog/the-ken/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+  </channel>
+</rss>

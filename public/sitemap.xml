@@ -29,43 +29,61 @@
     <loc>https://thedataareclean.com/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://thedataareclean.com/blog/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thedataareclean.com/categories/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedataareclean.com/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedataareclean.com/categories/education/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedataareclean.com/tags/hugo-site/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <loc>https://thedataareclean.com/tags/education/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedataareclean.com/categories/open-data/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <loc>https://thedataareclean.com/series/journalism/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedataareclean.com/categories/open-source/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <loc>https://thedataareclean.com/blog/the-ken/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedataareclean.com/categories/poverty/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedataareclean.com/project/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <loc>https://thedataareclean.com/series/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedataareclean.com/tags/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/tags/technology/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/blog/the-ken/2021-12-08-niti-byjus/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedataareclean.com/project/noral/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedataareclean.com/blog/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+    <loc>https://thedataareclean.com/tags/hugo-site/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/categories/poverty/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/categories/product/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/project/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedataareclean.com/categories/civicdatalab/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedataareclean.com/blog/2021-05-10-ed-definition/</loc>
+    <loc>https://thedataareclean.com/blog/cdl/2021-05-10-ed-definition/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/categories/open-data/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedataareclean.com/categories/public-finance/</loc>
@@ -80,26 +98,29 @@
     <loc>https://thedataareclean.com/project/girl-ed/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedataareclean.com/blog/2021-02-18-budget-reco-ed/</loc>
+    <loc>https://thedataareclean.com/categories/open-source/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/blog/cdl/2021-02-18-budget-reco-ed/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/tags/foss/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/tags/open-source/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/categories/report/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedataareclean.com/project/foss/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedataareclean.com/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thedataareclean.com/blog/2020-12-23-girl-ed/</loc>
+    <loc>https://thedataareclean.com/blog/cdl/2020-12-23-girl-ed/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedataareclean.com/tags/foss/</loc>
-    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedataareclean.com/tags/open-source/</loc>
-    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedataareclean.com/categories/report/</loc>
-    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedataareclean.com/project/foss/</loc>
-    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedataareclean.com/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
@@ -114,8 +135,8 @@
   </url><url>
     <loc>https://thedataareclean.com/contributors/</loc>
   </url><url>
-    <loc>https://thedataareclean.com/license/</loc>
+    <loc>https://thedataareclean.com/categories/journalism/</loc>
   </url><url>
-    <loc>https://thedataareclean.com/series/</loc>
+    <loc>https://thedataareclean.com/license/</loc>
   </url>
 </urlset>
