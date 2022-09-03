@@ -4,7 +4,7 @@ languageCode = "en"
 title = "cube"
 author = "Arpit Arora"
 copyright = "CC BY 4.0" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
+googleAnalytics = "UA-155279790-1"
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = ""
+  theme = "sky"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -81,10 +81,10 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
-  [[params.social]]
-      icon      = "file-alt" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "https://thedataareclean.com/resources/arpit-arora-resume.pdf"
+#  [[params.social]]
+#      icon      = "file-alt" # icon name without the 'fa-'
+#      icon_pack = "fas"
+#      url       = "https://thedataareclean.com/resources/arpit-arora-resume.pdf"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -97,6 +97,10 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/thedataareclean/"
+  [[params.social]]
+      icon      = "inbox" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "mailto:hello@thedataareclean.com"
 #  [[params.social]]
 #      icon      = "facebook-square" # icon name without the 'fa-'
 #      icon_pack = "fab"

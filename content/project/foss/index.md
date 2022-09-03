@@ -1,11 +1,13 @@
 ---
-author: Arpit Arora, Divya Rani, Gaurav Godhwani, Preethi Govindarajan
+author:
 categories:
-- Education
 - FOSS
 - Open Source
 - Report
-date: "2020-01-12"
+tags:
+- FOSS
+- Open Source
+date: "2021-02-01"
 draft: false
 excerpt: A chronicle of the evolution of the Free and Open Source Software (FOSS) ecosystem in India. Identifying key stakeholders, their challenges & recommendations to support the growth of a healthy community.
 layout: single
@@ -23,9 +25,6 @@ links:
   name: video
   url: https://www.youtube.com/watch?v=sJvc5qpDnX0
 subtitle: A chronicle of the evolution of the Free and Open Source Software (FOSS) ecosystem in India. Identifying key stakeholders, their challenges & recommendations to support the growth of a healthy community.
-tags:
-- FOSS
-- Open Source
 title: The State of FOSS in India Report
 ---
 
@@ -48,35 +47,15 @@ The research identifies the key stakeholders of the ecosystem, their spheres on 
 - Gaurav Godhwani, Co-author, Project Lead
 - Preethi Govindarajan, Co-author
 
-### Contributions
+### Role
 
 #### FOSS and Education
 
-> **Identification of the key membersw of the Education ecosystem participating in FOSS.**
-
-![](ed-stakeholders.png)
-
----
-
-> **Their sphere of influence and how they interact with other stakeholders.**
+> 
 
 ![](ed-sphere.png)
 
----
-
-> **Recommendations for Educational Institutes as a co-creating member of the FOSS ecosystem.**
-
-![](ed-recco.png)
-
----
-
 #### Chronicle
-
-> **Evolution of FOSS Ecosystem around the world and the transformation in India.**
-
-![](foss-timeline.png)
-
----
 
 > **Snapshot of the evolution of FOSS in India.**
 

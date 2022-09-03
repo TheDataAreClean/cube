@@ -11,7 +11,7 @@ title: License
 <i class="fab fa-creative-commons fa-2x"></i><i class="fab fa-creative-commons-by fa-2x"></i></i>
 </left>
 
-Most of my work is released under a [Creative Commons  Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/) unless stated otherwise.
+Unless stated otherwise, most of my work is released under a [Creative Commons  Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
