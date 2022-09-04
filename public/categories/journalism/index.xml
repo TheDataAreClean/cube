@@ -6,14 +6,48 @@
     <description>Recent content in journalism on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>CC BY 4.0</copyright><atom:link href="https://thedataareclean.com/categories/journalism/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>CC BY 4.0</copyright>
+    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/journalism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journalism</title>
       <link>https://thedataareclean.com/blog/the-ken/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://thedataareclean.com/blog/the-ken/</guid>
       <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+    <item>
+      <title>Spam gushes through the cracks in Trai’s Do Not Disturb dam</title>
+      <link>https://thedataareclean.com/blog/the-ken/2022-04-29-dnd-calls/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2022-04-29-dnd-calls/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       Nearly 15 years after setting up the National Do Not Call Registry (NDNC), subscribers continue to be pestered by telemarketing calls
+  The demand for subscriber contact details has even spawned a thriving industry of data brokers who trade subscribers’ details to telemarketers</description>
+    </item>
+    
+    <item>
+      <title>Amazon’s steep learning curve in India’s crowded online test prep market</title>
+      <link>https://thedataareclean.com/blog/the-ken/2022-01-05-amazon-academy/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2022-01-05-amazon-academy/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       Amazon is the latest edtech entrant in India, with its eye on the engineering and medical test prep market, and beyond
+  The company is taking a no-frills approach to teaching and relying on data to organise, personalise, and present the content better</description>
+    </item>
+    
+    <item>
+      <title>Up in the air: The vague Byju’s-NITI Aayog stab at public edtech</title>
+      <link>https://thedataareclean.com/blog/the-ken/2021-12-08-niti-byjus/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2021-12-08-niti-byjus/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       The $20 billion edtech giant Byju’s has set its sight on the public education system in India. It has a willing partner in NITI Aayog
+  Byju’s wants to target students in India’s most developmentally challenged states; its products aren’t a great fit for the audience</description>
     </item>
     
   </channel>
