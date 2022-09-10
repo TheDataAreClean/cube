@@ -7,7 +7,7 @@ number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
   
-  I have been working on research studies and monitoring and evaluation programmes focusing on nano-entrepreneurship in India. I am also experimenting with new mediums to make fundamental statistical concepts accessible to a wider audience.
+  I have been working on research studies and monitoring and evaluation programmes focusing on nano-entrepreneurship in India. I am also experimenting with new visual mediums to make fundamental statistical concepts accessible to a wider audience.
 
 show_outro: true
 outro: |
