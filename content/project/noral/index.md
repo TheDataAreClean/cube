@@ -60,9 +60,9 @@ To address the complexity of the problem, research was conducted for the followi
 
 ### Contributions
 
-As a Project Lead and Lead Researcher on the project, my role encompassed the following activities on the project:
+As a Project Lead and Lead Researcher on the project, I played many cross-functional roles:
 
 - Leading the thematic research to understand the Scottish education landscape, the key stakeholders needs and the national data infrastructure to identify gaps and areas of improvements.
 - Supporting the designers and technologists in translating the project requirements required outputs and working on intergrating the various outputs together into a cohesive solution.
 - Liaising with the project partners, key stakeholders and Scottish government officials to communicate progress, capture feedback and onboard them as co-creators on the solution.
- 
+

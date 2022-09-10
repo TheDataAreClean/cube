@@ -12,8 +12,10 @@ link_list:
 - name: Cycling
   url: 
 - name: Writing
-  url: 
+  url: https://thedataareclean.com/blog
 - name: Doodling
+  url: https://instagram.com/outsidetheboxplot 
+- name: Teaching
   url: 
 ---
 

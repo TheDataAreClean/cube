@@ -44,15 +44,15 @@ The research identifies the key stakeholders of the ecosystem, their spheres on 
 ### Team
 
 - **_Arpit Arora_**, Co-author
-- Divya Rani, Co-author, Designer
-- Gaurav Godhwani, Co-author, Project Lead
-- Preethi Govindarajan, Co-author
+- [Divya Rani](https://www.linkedin.com/in/divya-rani-26a980b/), Co-author, Designer
+- [Gaurav Godhwani](https://www.linkedin.com/in/gggodhwani), Co-author, Project Lead
+- [Preethi Govindarajan](https://www.linkedin.com/in/preethi-govindarajan), Co-author
 
-### Role
+### Contributions
 
 #### FOSS and Education
 
-> **The education ecosystem for Free and Open Source Software**
+> **The education ecosystem for FOSS and it's sphere of influence.**
 
 ![](ed-sphere.png)
 

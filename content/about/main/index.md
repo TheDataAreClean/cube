@@ -1,14 +1,23 @@
 ---
 ## Configure page content in wide column
-title: "But why `cube` ?" # leave blank to exclude
-number_featured: 3 # pulling from mainSections in config.toml
+title: # leave blank to exclude
+number_featured: 5 # pulling from mainSections in config.toml
 use_featured: true # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
-show_intro: true
-intro: |
-  I am a fairly private person who doesn't like sharing their name and photo online, and through the years `cube` just stuck around. It’s not like you won’t find them on the internet if you look around, it's probably somewhere on this website too! But why offer it myself?
-show_outro: false
-outro:
+show_intro: false
+intro:
+show_outro: true
+outro: |
+  
+  ## Why `cube` ?
+  
+  I am a fairly private person who doesn't like sharing their name and photo online, and through the years `cube` has becime my default identity, even amongst friends. It’s not like you won’t find me on the internet if you look around, it's probably somewhere on this website too! But why offer it myself?
+  
+  ## Why `TheDataAreClean` ?
+  
+  (phd.jpg)
+  The name was partly inspired by my experiences of working with data all these years and understanding the importance of cleaning the data, and partly by a PHD Comics [strip](https://twitter.com/phdcomics/status/858434932695195648) which wonders if data is singular or plural. I hope you enjoy the wordplay as much as I do!
+
 ---
 
 ** index doesn't contain a body, just front matter above.
