@@ -3,8 +3,6 @@ title: "The speed bumps in LEAD’s plan to digitise India’s budget private sc
 subtitle: 
 author: Arpit Arora
 excerpt: "LEAD wants to be the go-to brand for thousands of India’s private schools—where students pay Rs 1,000 or less as monthly fees—to go digital. In two years, it wants to double the number of schools it’s present in, but to get there, it has to tighten more than a few product screws."
-categories:
-- Education
 date: "2022-02-22"
 draft: false
 ---

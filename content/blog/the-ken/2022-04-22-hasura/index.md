@@ -3,8 +3,6 @@ title: "Hasura’s biggest open source strength is its greatest commercial weakn
 subtitle: 
 author: Arpit Arora
 excerpt: "India’s first open source unicorn, Hasura has shattered the notion that proprietary solutions are the sole path to building a billion-dollar business. However, while its open source base has helped it build a global community, getting them to buy into its commercial solutions—especially as contributors—won’t be easy."
-categories:
-- Education
 date: "2022-02-22"
 draft: false
 ---

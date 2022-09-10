@@ -1,15 +1,9 @@
 ---
-author:
-categories:
-- FOSS
-- Open Source
-- Report
-tags:
-- FOSS
-- Open Source
-date: "2021-02-01"
-draft: false
+title: The State of FOSS in India Report
+subtitle: A chronicle of the evolution of the Free and Open Source Software (FOSS) ecosystem in India. Identifying key stakeholders, their challenges & recommendations to support the growth of a healthy community.
 excerpt: A chronicle of the evolution of the Free and Open Source Software (FOSS) ecosystem in India. Identifying key stakeholders, their challenges & recommendations to support the growth of a healthy community.
+author:
+featured: true
 layout: single
 links:
 - icon: door-open
@@ -24,8 +18,15 @@ links:
   icon_pack: fab
   name: video
   url: https://www.youtube.com/watch?v=sJvc5qpDnX0
-subtitle: A chronicle of the evolution of the Free and Open Source Software (FOSS) ecosystem in India. Identifying key stakeholders, their challenges & recommendations to support the growth of a healthy community.
-title: The State of FOSS in India Report
+categories:
+- foss
+- open-source
+- report
+tags:
+- foss
+- open-source
+date: "2021-02-01"
+draft: false
 ---
 
 ![FOSS logo](foss.png)
@@ -51,7 +52,7 @@ The research identifies the key stakeholders of the ecosystem, their spheres on 
 
 #### FOSS and Education
 
-> 
+> **The education ecosystem for Free and Open Source Software**
 
 ![](ed-sphere.png)
 

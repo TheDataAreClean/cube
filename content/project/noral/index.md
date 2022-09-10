@@ -1,15 +1,8 @@
 ---
-author: 
-categories:
-- Education
-- Poverty
-- Product
-tags:
-- Open Data
-- Open Source
-date: "2021-11-01"
-draft: false
+title: Democratising Action for Attainment
+subtitle: "Understanding attainment through the lens of poverty across the Northern Alliance region of Scotland."
 excerpt: How do we use novel data sets and techniques to effectively understand the impact of child poverty on education within urban and rural contexts?
+author: 
 featured: true
 layout: single
 links:
@@ -25,10 +18,15 @@ links:
   icon_pack: far
   name: Post
   url: https://www.dataforchildrencollaborative.com/poverty/northern-alliance
-subtitle: "Understanding attainment through the lens of poverty across the Northern Alliance region of Scotland."
+categories:
+- education
+- poverty
+- product
 tags:
-- hugo-site
-title: Democratising Action for Attainment
+- open-data
+- open-source
+date: "2021-11-01"
+draft: false
 ---
 
 ![](featured-hex.png)
