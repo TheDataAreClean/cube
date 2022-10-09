@@ -1,10 +1,12 @@
 ---
 author: Arpit Arora
 categories:
-- Education
-- Open Data
-- Public Finance
-- CivicDataLab
+- education
+- girl-education
+- public-finance
+tags:
+- open-data
+- cdl
 date: "2021-05-10"
 draft: false
 excerpt: A fiscal definition for Education that could enable key stakeholders like CSOs, research organisations and citizens to not only analyse and critique the education related expenditure for any geography but also modify the definition to get an accurate picture for their specific use cases.

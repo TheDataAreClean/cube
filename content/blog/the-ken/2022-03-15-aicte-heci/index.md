@@ -3,6 +3,11 @@ title: "AICTE to HECI: Alphabet soup for India’s autonomy-starved technical in
 subtitle: 
 author: Arpit Arora
 excerpt: "As India’s apex body on technical education, AICTE was expected to promote the quality of technical education, but tight control and excessive red tape has stunted its growth. The government is working on a draft bill for a new regulatory body, but for technical institutions, it’ll just mean one invigilator in place of another."
+categories:
+- education
+tags:
+- aicte
+- heci
 date: "2022-03-15"
 draft: false
 ---

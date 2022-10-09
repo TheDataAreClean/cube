@@ -3,6 +3,12 @@ title: "Amazon’s steep learning curve in India’s crowded online test prep ma
 subtitle: 
 author: Arpit Arora
 excerpt: "Amazon Academy has been discreetly building a foundation in India’s online test prep market since last January, with over one million registered users already. But even after onboarding reputed teachers and partnering with traditional coaching institutes, the venture seems to be missing some key ingredients."
+categories:
+- education
+- edtech
+tags:
+- amazon
+- test-prep
 date: "2022-01-05"
 draft: false
 ---

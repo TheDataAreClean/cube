@@ -1,11 +1,12 @@
 ---
 author: Arpit Arora, Upasana Hembram
 categories:
-- Education
-- Girl Education
-- Open Data
-- Public Finance
-- CivicDataLab
+- education
+- girl-education
+- public-finance
+tags:
+- open-data
+- cdl
 date: "2020-12-23"
 draft: false
 excerpt: Examining and highlighting the trend of financing for child education with specific focus on girls’ education in the state of Uttar Pradesh, Building the collective voices of local CSOs to be able to advocate for greater budget transparency in allocation and expenditure for education related programmes and making the fiscal data in public domain in simplified forms. 

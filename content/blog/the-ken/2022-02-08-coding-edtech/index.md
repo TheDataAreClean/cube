@@ -3,6 +3,12 @@ title: "Beyond WhiteHat Jr: the hinterland niche calling India’s coding edtech
 subtitle: 
 author: Arpit Arora
 excerpt: "For a long time, coding in edtech has been synonymous with WhiteHat Jr in India. A handful of smaller companies like CuriousJr, Coding Ninjas, StayQrious are trying to break through and they’re doing it by focussing on markets where accessibility to tech and coding is nearly non-existent. To succeed, they’ll need to recalibrate the very nature of coding edtech."
+categories:
+- education
+- edtech
+tags:
+- coding
+- white-hat-jr
 date: "2022-02-08"
 draft: false
 ---

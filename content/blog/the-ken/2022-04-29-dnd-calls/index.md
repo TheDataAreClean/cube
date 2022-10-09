@@ -3,6 +3,11 @@ title: "Spam gushes through the cracks in Trai’s Do Not Disturb dam"
 subtitle: 
 author: Arpit Arora
 excerpt: "Trai’s attempts to stem the menace of spam calls and messages go back 15 years. In 2018, it finally implemented a blockchain-based system that was meant to be a silver bullet. Four years on, however, this silver bullet seems to have missed its target."
+categories:
+- technology
+tags:
+- spam
+- trai
 date: "2022-04-29"
 draft: false
 ---

@@ -1,10 +1,13 @@
 ---
 author: Arpit Arora
 categories:
-- Education
-- FOSS
-- Public Finance
-- CivicDataLab
+- education
+- foss
+- public-finance
+tags:
+- open-source
+- open-data
+- cdl
 date: "2021-02-18"
 draft: false
 excerpt: The COVID-19 pandemic changed the education landscape of India overnight with educational institutes compelled to adopt various digital learning alternatives to sustain timely growth of children. How can FOSS be the solution? Budget 2021-22 recommendations for the state of Uttar Pradesh.

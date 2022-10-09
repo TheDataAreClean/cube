@@ -3,6 +3,10 @@ title: "The community-shaped hole in Skillshare’s plan to take on FrontRow, Un
 subtitle: 
 author: Arpit Arora
 excerpt: "The American creative learning marketplace entered India earlier this year with a bank of over 30,000 pre-recorded online classes. It’s already partnering with popular Indian creators and offering attractive subscription prices. But the lack of live classes and interactions between users and teachers puts it at a disadvantage against Indian competitors."
+categories:
+- edtech
+tags:
+- skillshare
 date: "2022-04-04"
 draft: false
 ---

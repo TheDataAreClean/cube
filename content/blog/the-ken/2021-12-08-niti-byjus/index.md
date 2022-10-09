@@ -3,6 +3,12 @@ title: "Up in the air: The vague Byju’s-NITI Aayog stab at public edtech"
 subtitle: 
 author: Arpit Arora, Olina Banerji
 excerpt: "Byju’s big bang entry into the public sector comes via a headline-making partnership with NITI Aayog that promises free educational resources. But without inputs from on-ground stakeholders, the programme is seeing a serious mismatch between Byju’s content offerings and the realities of a post-pandemic learning gap."
+categories:
+- education
+- edtech
+tags:
+- niti-aayog
+- byjus
 date: "2021-12-08"
 draft: false
 ---

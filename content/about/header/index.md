@@ -7,6 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am a cross functional researcher who loves to try on new lenses in approaching a problem statement. My experiences range from data analytics to product development to journalism, and now monitoring and evaluation programmes all set in the social development context. 
+Welcome! I am a cross functional researcher who loves to try on new approaches in pursuing numerous data-centric problem statements. My experiences range from data analytics to product development to journalism, and now monitoring and evaluation programmes all set in the social development context. 
 
-The core of my work lies in improving the data literacy of new audiences through a variety of mediums, and increasing their decision making capacity.
+The core of my work lies in improving the data literacy and capabilities of new audiences through a variety of mediums, and increasing their decision making capacity.
