@@ -1,13 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on cube</title>
+    <title>education on cube</title>
     <link>https://thedataareclean.com/categories/education/</link>
-    <description>Recent content in Education on cube</description>
+    <description>Recent content in education on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AICTE to HECI: Alphabet soup for India’s autonomy-starved technical institutions</title>
+      <link>https://thedataareclean.com/blog/the-ken/2022-03-15-aicte-heci/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2022-03-15-aicte-heci/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       Established in 1945 to improve the quality of technical education in India, AICTE’s authority has expanded, often at the expense of the autonomy of engineering colleges
+  AICTE’s reach is so thorough that engineering colleges have been restricted in much of their operations from curriculum design to interdisciplinary research</description>
+    </item>
+    
+    <item>
+      <title>The speed bumps in LEAD’s plan to digitise India’s budget private schools</title>
+      <link>https://thedataareclean.com/blog/the-ken/2022-02-22-lead-schools/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2022-02-22-lead-schools/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       In the last two years, LEAD has expanded from 600 partner schools to nearly 5,000; it raised $100 million recently, becoming a unicorn in the process
+  Teachers are the centre of its plans to digitise classrooms—by removing the management and lesson planning headache, LEAD lets them focus on teaching</description>
+    </item>
+    
+    <item>
+      <title>Beyond WhiteHat Jr: the hinterland niche calling India’s coding edtechs</title>
+      <link>https://thedataareclean.com/blog/the-ken/2022-02-08-coding-edtech/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2022-02-08-coding-edtech/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       Coding education in India is in the midst of a boom with the addressable market is pegged at ~20 million students
+  Along with growth, challenges like homogeneity of offerings, inaccessible products, and low quality teaching have plagued the industry
+  The classroom size and the role of the instructor need needs to be reevaluated for coding education to expand</description>
+    </item>
+    
+    <item>
+      <title>Amazon’s steep learning curve in India’s crowded online test prep market</title>
+      <link>https://thedataareclean.com/blog/the-ken/2022-01-05-amazon-academy/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2022-01-05-amazon-academy/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       Amazon is the latest edtech entrant in India, with its eye on the engineering and medical test prep market, and beyond
+  The company is taking a no-frills approach to teaching and relying on data to organise, personalise, and present the content better</description>
+    </item>
+    
+    <item>
+      <title>Up in the air: The vague Byju’s-NITI Aayog stab at public edtech</title>
+      <link>https://thedataareclean.com/blog/the-ken/2021-12-08-niti-byjus/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2021-12-08-niti-byjus/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       The $20 billion edtech giant Byju’s has set its sight on the public education system in India. It has a willing partner in NITI Aayog
+  Byju’s wants to target students in India’s most developmentally challenged states; its products aren’t a great fit for the audience</description>
+    </item>
+    
     <item>
       <title>Democratising Action for Attainment</title>
       <link>https://thedataareclean.com/project/noral/</link>

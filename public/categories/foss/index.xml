@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FOSS on cube</title>
+    <title>foss on cube</title>
     <link>https://thedataareclean.com/categories/foss/</link>
-    <description>Recent content in FOSS on cube</description>
+    <description>Recent content in foss on cube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
@@ -20,10 +20,28 @@ COVID-19 and Education   The COVID-19 pandemic changed the education landscape o
     
     <item>
       <title>The State of FOSS in India Report</title>
+      <link>https://thedataareclean.com/project/dkblr/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/project/dkblr/</guid>
+      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
+    </item>
+    
+    <item>
+      <title>The State of FOSS in India Report</title>
       <link>https://thedataareclean.com/project/foss/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://thedataareclean.com/project/foss/</guid>
+      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
+    </item>
+    
+    <item>
+      <title>The State of FOSS in India Report</title>
+      <link>https://thedataareclean.com/project/storyweaver/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/project/storyweaver/</guid>
       <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
     </item>
     

@@ -9,20 +9,38 @@
     <copyright>CC BY 4.0</copyright>
     <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>journalism</title>
-      <link>https://thedataareclean.com/categories/journalism/</link>
+      <title>technology</title>
+      <link>https://thedataareclean.com/categories/technology/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/categories/journalism/</guid>
+      <guid>https://thedataareclean.com/categories/technology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Education</title>
+      <title>edtech</title>
+      <link>https://thedataareclean.com/categories/edtech/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/categories/edtech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
       <link>https://thedataareclean.com/categories/education/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://thedataareclean.com/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://thedataareclean.com/categories/open-source/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/categories/open-source/</guid>
       <description></description>
     </item>
     
@@ -45,25 +63,16 @@
     </item>
     
     <item>
-      <title>CivicDataLab</title>
-      <link>https://thedataareclean.com/categories/civicdatalab/</link>
+      <title>girl-education</title>
+      <link>https://thedataareclean.com/categories/girl-education/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thedataareclean.com/categories/civicdatalab/</guid>
+      <guid>https://thedataareclean.com/categories/girl-education/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Open Data</title>
-      <link>https://thedataareclean.com/categories/open-data/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedataareclean.com/categories/open-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public Finance</title>
+      <title>public-finance</title>
       <link>https://thedataareclean.com/categories/public-finance/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
@@ -72,29 +81,11 @@
     </item>
     
     <item>
-      <title>Girl Education</title>
-      <link>https://thedataareclean.com/categories/girl-education/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedataareclean.com/categories/girl-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FOSS</title>
+      <title>foss</title>
       <link>https://thedataareclean.com/categories/foss/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://thedataareclean.com/categories/foss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
-      <link>https://thedataareclean.com/categories/open-source/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedataareclean.com/categories/open-source/</guid>
       <description></description>
     </item>
     
@@ -104,6 +95,15 @@
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://thedataareclean.com/categories/report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>journalism</title>
+      <link>https://thedataareclean.com/categories/journalism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/categories/journalism/</guid>
       <description></description>
     </item>
     

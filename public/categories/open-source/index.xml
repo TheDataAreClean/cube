@@ -7,13 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hasura’s biggest open source strength is its greatest commercial weakness</title>
+      <link>https://thedataareclean.com/blog/the-ken/2022-04-22-hasura/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/blog/the-ken/2022-04-22-hasura/</guid>
+      <description>Note: This article was originally published on The Ken website and is subject to their copyright terms and conditions.
+Summary       In February, Hasura became the first open source business out of India to turn unicorn
+  Being an open source business, the company’s core product is available for anyone to use without paying Hasura a cent
+  Hasura has built a strong community of contributors that fix bugs, build new features, and even help improve the documentation</description>
+    </item>
+    
+    <item>
+      <title>The State of FOSS in India Report</title>
+      <link>https://thedataareclean.com/project/dkblr/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/project/dkblr/</guid>
+      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
+    </item>
+    
     <item>
       <title>The State of FOSS in India Report</title>
       <link>https://thedataareclean.com/project/foss/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://thedataareclean.com/project/foss/</guid>
+      <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
+    </item>
+    
+    <item>
+      <title>The State of FOSS in India Report</title>
+      <link>https://thedataareclean.com/project/storyweaver/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/project/storyweaver/</guid>
       <description>Background      CivicDataLab in partnership with Omidyar Network India conducted a research study to develop a deeper understanding of the Free &amp;amp; Open Source Software (FOSS) ecosystem of India, its current stakeholders, challenges faced by the FOSS movement, and explore ways to support FOSS communities and accelerate adoption in India. The research also chronicles the journey of FOSS in India, research and map out the pioneers of the FOSS movement: tracing projects, local communities, big tech contributors and current adoption by State and Central Governments.</description>
     </item>
     
