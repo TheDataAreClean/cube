@@ -20,7 +20,7 @@ categories:
 tags:
 - entrepreneurship
 - udhyam
-date: 2022-12-31
+date: 2022-10-01
 draft: false
 ---
 
