@@ -51,19 +51,24 @@ Udhyam also plans to publish a playbook consisting of all the processes, tools a
 ### Team
 
 - **_Arpit Arora_**, Monitoring and Evaluation Specialist
-- [Cyril Joseph](), Project Lead
-- [Juhi Yasmin](), Operations Lead
-- [Vishnu Reji](), Operations Associate
+- [Menaka Menon](https://www.linkedin.com/in/menaka-menon-4625112/), Team Lead
+- [Cyril Joseph](https://www.linkedin.com/in/cyril-joseph-33b932146/), Programme Lead
+- [Juhi Yasmin](https://www.linkedin.com/in/juhi-yasmin-1878a811b/), Operations Consultant
+- [Vishnu Reji](https://www.linkedin.com/in/vishnu-reji-a7820a103/), Project Associate
 
 ### Contributions
 
 #### Monitoring and Evaluation
 
-<< `WIP` >>
+- Setting up the data collection methodology, infrastructure and training the team to adopt the same
+- Identifying appropriate tools and technologies to setup an open source, scalable data infrastructure
+- Build data management pipeline and dashboards to track the progress of the project and milestones achieved
 
 #### Strategy and Support
 
-<< `WIP` >>
+- Using data to inform the strategy of the project and take key decisions around scale the programme
+- Improve data literacy of team members and build solutions enable the use of data in daily operations
+- Orchestrating an open knowledge approach to manage and scale the project across new geographies
 
 ### Recognition
 
