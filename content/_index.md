@@ -2,7 +2,7 @@
 action_label: Find out more &rarr;
 action_link: /about
 action_type: text
-description: "Hello! I am `cube`, a statistician working working on the intersection of data and technology to accelerate access to information and increase data literacy. I love to try out new approaches in pursuing numerous data-centric problem statements. My experiences range from product analytics to journalism, and now monitoring and evaluation programmes set in the social development context."
+description: "Hello! I am `cube`, a statistician working on the intersection of data and technology to accelerate access to information and increase data literacy. I love to try out new approaches in pursuing numerous data-centric problem statements. My experiences range from product roles to journalism, and now monitoring and evaluation programmes set in the social development context."
 images:
  - img/tdac.png
 show_action_link: true

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://thedataareclean.com/collection/day02/01-netlify/</link>
@@ -82,6 +82,16 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>The Istri Project</title>
+      <link>https://thedataareclean.com/project/istri/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/project/istri/</guid>
+      <description>Background     Ironing nano-entrepreneurs (vyapaaris) in India are stationed at every neighbourhood, collecting clothes from the local residents and ironing them. These vyapaaris primarily work with Coal iron boxes, where coal is the input fuel that heats the boxes. This product has not evolved in decades. The current product and market conditions make it difficult for vyapaaris to sustain and grow their businesses.
+Every morning vyapaaris spend nearly 2 hours to heat up coal, taking up time to iron more clothes or earn additional income.</description>
     </item>
     
     <item>
