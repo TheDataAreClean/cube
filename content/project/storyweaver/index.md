@@ -10,7 +10,8 @@ links:
   name: website
   url: https://storyweaver.org.in/
 categories:
-- web-analytics
+- data-analytics
+- open-knowledge
 - creative-commons
 tags:
 - picture-books
