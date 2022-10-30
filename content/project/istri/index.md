@@ -24,7 +24,7 @@ date: 2022-10-01
 draft: false
 ---
 
-![Istri Logo](featured.png)
+![Istri Logo](istri.png)
 
 ### Background
 

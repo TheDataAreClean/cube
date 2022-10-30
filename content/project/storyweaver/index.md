@@ -1,72 +1,45 @@
 ---
-title: The Istri Project
-subtitle: Increasing productivity & thereby earning power for ironing vendors, by driving conversion to a superior product from their current traditional coal iron boxes.
-excerpt: Increasing productivity & thereby earning power for ironing vendors, by driving conversion to a superior product from their current traditional coal iron boxes.
+title: StoryWeaver
+subtitle: A open digital repository of multilingual stories for children from the publisher Pratham Books, where all the books are licensed under copyleft creative commons licenses for easy access to audiences worldwide.
+excerpt: A open digital repository of multilingual stories for children from the publisher Pratham Books, where all the books are licensed under copyleft creative commons licenses for easy access to audiences worldwide.
 author:
-featured: true
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://www.udhyam.org/vyapaar/theistriproject/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/udhyam/istri
+  url: https://storyweaver.org.in/
 categories:
-- m&e
-- open-source
+- web-analytics
+- creative-commons
 tags:
-- entrepreneurship
-- udhyam
-date: 2022-12-31
+- picture-books
+- pratham-books
+date: 2020-05-01
 draft: false
 ---
 
-![Istri Logo](featured.png)
+![SW](model.png)
 
 ### Background
 
-Ironing nano-entrepreneurs (vyapaaris) in India are stationed at every neighbourhood, collecting clothes from the local residents and ironing them. These vyapaaris primarily work with Coal iron boxes, where coal is the input fuel that heats the boxes. This product has not evolved in decades. The current product and market conditions make it difficult for vyapaaris to sustain and grow their businesses.
+In a world where six out of every ten children are not achieving minimum proficiency in reading and mathematics, the road to literacy – and UN Sustainable Development Goal 4, quality education – is an uphill climb. And while the obstacles are many – including a shortage of schools and teachers for millions of children, compounded by a dearth of local language reading material for 40% of students – Pratham Books’ StoryWeaver is committed to providing children with the very first step to literacy acquisition. Books.
 
-Every morning vyapaaris spend nearly 2 hours to heat up coal, taking up time to iron more clothes or earn additional income. Moreover, coal iron boxes do not have any temperature control, and coal spilling damages clothes. Added to this is the long term health impact of inhaling coal fumes. Over the last year, even coal prices have increased nearly 185%.
+Since 2004, Pratham Books has been creating engaging storybooks in multiple languages and formats to help children discover the joy of reading – in languages they can understand, set in locations they can recognise, featuring characters with whom they can identify, and telling stories that capture their attention and fuel their imagination. Fired by our mission of ‘A book in every child’s hand’, we realised that in order to accelerate progress towards SDG 4, we need innovative solutions that bring books to children in a scalable and sustainable manner.
+In 2015
 
-A suitable alternative for vyapaaris is moving to a superior product in the LPG iron box. The product drastically reduces the heating time to just 2 mins, the fuel cost per cloth ironed is also reduced by 50%. Shifting to an LPG iron box also limits the exposure to harmful carbon emissions for vyapaaris.
+In 2015, StoryWeaver was created - a new platform approach for book creation and distribution - that is taking books to some of the most disadvantaged children globally, particularly where chronic under-investment in the availability of mother tongue reading resources poses a significant barrier to literacy.
 
-We work with a market transformation approach that focuses on solving three fundamental barriers around adoption of LPG iron boxes; awareness, accessibility and affordability. This model ensures that post the initial market push, intervention efforts can be dialled down and market forces take over to sustain market transformation towards the new product.
-
-#### Impact
-
-**Beneficiary Impact** - The LPG iron box ensures productivity increase and consequently income uplift for ironing nano-entrepreneurs. During our pilot intervention in Bangalore (India) with 1,000 ironing nano-entrepreneurs, we observed a 27% income increase, Rs. 1,150 saved on fuel per month and 133 mins time saved every day.
-
-**Market Transformation** - Along with beneficiary impact, our work also focused on ensuring that the market sustains beyond our intervention and the LPG iron box is accessible and affordable to the ironing nano-entrepreneurs in the long term. A post intervention evaluation revealed over 37% of the market converted to LPG iron boxes. Of the 21 identified iron box retailers in Bangalore, 15 have started selling LPG iron boxes.
-
-#### Scale
-
-For expanding the project to new geographies, we are adopting a knowledge partner approach where it will identify new geographies and work with regional organisations who best understand the geography and local languages to implement the program. Udhyam will work with the partners to manage the progress and ensure quality. 
-
-Udhyam also plans to publish a playbook consisting of all the processes, tools and resources under open licences, helping the local organisations to adopt these practices and guide them to execute the programme objectives. 
+At its core, StoryWeaver is a repository of high quality, openly licensed multilingual storybooks sourced from global publishers, including but not limited to Pratham Books. Every book is freely available in multiple formats can be read online, and keeping in mind the digital divide - can also be read offline, downloaded, printed and even repurposed, so that no child is left behind. Translation and versioning tools help customize the books for localized requirements and these resources become available to other users as well, creating a multiplier effect and amplifying impact.
 
 ### Team
 
-- **_Arpit Arora_**, Monitoring and Evaluation Specialist
-- [Cyril Joseph](), Project Lead
-- [Juhi Yasmin](), Operations Lead
-- [Vishnu Reji](), Operations Associate
+- **_Arpit Arora_**, Data Analyst
+- [Purvi Shah](https://www.linkedin.com/in/purvi-shah-31873a5/), Director, StoryWeaver
+- [Anamika Radhakrishnan](https://www.linkedin.com/in/anamika-radhakrishnan-040b1396/), Manager - Strategy and insights
 
 ### Contributions
 
-#### Monitoring and Evaluation
-
-<< `WIP` >>
-
-#### Strategy and Support
-
-<< `WIP` >>
-
-### Recognition
-
-- [How One Eco-Friendly Change Jumped Incomes From Ironing By 27% in Bengaluru](https://www.thebetterindia.com/201894/bengaluru-ironing-clothes-cost-income-system-coal-iron-press-eco-friendly/)
-- [How Design Thinking Powers Micro-Entrepreneurs](https://thehardcopy.co/how-design-thinking-powers-micro-entrepreneurs/)
-- [NGO helps iron wallahs migrate from coal to LPG-powered boxes](https://www.thehindu.com/news/cities/bangalore/ngo-helps-iron-wallahs-migrate-from-coal-to-lpg-powered-boxes/article37948615.ece)
+- Leading the analytics architecture and data strategy for the open digital storybook platform, StoryWeaver.
+- Analyzing the platform performance and user engagement trends to suggest enhancements to the platform.
+- Building interactive dashboards for key stakeholders to explore data trends and insights across different verticals.
