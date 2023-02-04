@@ -8,7 +8,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://civicdatalab.in/work/publicfinance/girleducation/
+  url: https://girleducation.in/
 - icon: github
   icon_pack: fab
   name: code

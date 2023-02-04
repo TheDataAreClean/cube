@@ -51,7 +51,6 @@ Udhyam also plans to publish a playbook consisting of all the processes, tools a
 ### Team
 
 - **_Arpit Arora_**, Monitoring and Evaluation Specialist
-- [Menaka Menon](https://www.linkedin.com/in/menaka-menon-4625112/), Team Lead
 - [Cyril Joseph](https://www.linkedin.com/in/cyril-joseph-33b932146/), Programme Lead
 - [Juhi Yasmin](https://www.linkedin.com/in/juhi-yasmin-1878a811b/), Operations Consultant
 - [Vishnu Reji](https://www.linkedin.com/in/vishnu-reji-a7820a103/), Project Associate

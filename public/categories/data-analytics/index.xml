@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data-analytics on cube</title>
+    <link>https://thedataareclean.com/categories/data-analytics/</link>
+    <description>Recent content in data-analytics on cube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CC BY 4.0</copyright>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thedataareclean.com/categories/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StoryWeaver</title>
+      <link>https://thedataareclean.com/project/storyweaver/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedataareclean.com/project/storyweaver/</guid>
+      <description>Background     In a world where six out of every ten children are not achieving minimum proficiency in reading and mathematics, the road to literacy – and UN Sustainable Development Goal 4, quality education – is an uphill climb. And while the obstacles are many – including a shortage of schools and teachers for millions of children, compounded by a dearth of local language reading material for 40% of students – Pratham Books’ StoryWeaver is committed to providing children with the very first step to literacy acquisition.</description>
+    </item>
+    
+  </channel>
+</rss>

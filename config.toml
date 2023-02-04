@@ -48,14 +48,14 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = ""
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "" 
+  custom_theme = ""
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
@@ -86,17 +86,17 @@ enableEmoji = true
 #      icon_pack = "fas"
 #      url       = "https://thedataareclean.com/resources/arpit-arora-resume.pdf"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "linkedin-in" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/TheDataAreClean"
+      url       = "https://www.linkedin.com/in/thedataareclean/"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/TheDataAreClean"
   [[params.social]]
-      icon      = "linkedin" # icon name without the 'fa-'
+      icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/thedataareclean/"
+      url       = "https://twitter.com/TheDataAreClean"
   [[params.social]]
       icon      = "inbox" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -141,7 +141,7 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Projects"
+    title = "Highlights"
     url = "/project/"
     weight = 3
 #  [[menu.header]]
