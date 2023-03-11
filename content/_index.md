@@ -2,14 +2,14 @@
 action_label: Find out more &rarr;
 action_link: /about
 action_type: text
-description: "Hello, I am `cube` ! A researcher who's work lies on the intersection of improving access to information and enhancing the data literacy of new audiences through a variety of mediums."
+description: "I am a statistician who works on the intersection of data and technology to craft immersive narratives that improve access to information, data literacy, and drive action towards impact."
 images:
  - img/tdac.png
 show_action_link: true
 show_social_links: true
-subtitle: "Statistician, Storyteller"
+subtitle: "I tell stories using data."
 text_align_left: true
-title: cube
+title: Hello, I am cube !
 type: home
 ---
 

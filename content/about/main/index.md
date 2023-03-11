@@ -11,7 +11,7 @@ outro: |
   
   ## Why `cube` ?
   
-  I am a fairly private person who doesn't like sharing their name and photo online, and through the years `cube` has become my default identity amongst friends. It’s not like you won’t find me on the internet if you look around, it's probably somewhere on this website too! But why offer it myself?
+  I am a fairly private person and prefer not to share my name or photo online. Through the years, `cube` has become my default identity amongst friends and colleagues. And it’s not like you won’t find me online if you look around, but why offer it myself?
   
   ## Why `TheDataAreClean` ?
   

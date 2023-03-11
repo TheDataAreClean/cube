@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  # Lately..
+   Lately..
 ---
 
 <!-- this is a subheadline -->
-I have been working on research, monitoring and evaluation programmes focusing on nano-entrepreneurship across India. I also experiment with different visual mediums to make fundamental concepts accessible to a wider range of audiences.
+I have been working on Monitoring, Evaluation, Research and Learning (MERL) programmes focusing on nano-entrepreneurship across India. I also experiment with various visual mediums to make fundamental statistical concepts accessible to a wide range of audiences.
