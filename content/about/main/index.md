@@ -4,8 +4,9 @@ title: # leave blank to exclude
 number_featured: 5 # pulling from mainSections in config.toml
 use_featured: true # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
-show_intro:
-intro:
+show_intro: true
+intro: |
+  
 show_outro: true
 outro: |
   
